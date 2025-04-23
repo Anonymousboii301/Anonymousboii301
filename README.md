@@ -8,12 +8,14 @@ I’m currently diving into Python and Statistics, strengthening my data analysi
 I'm also Learning a little basic of Web dev for funs 
 
 ## 🚀 Skills & Interests  
-- Programming (C , Python , JS)  
+- Programming (Python , HTML , CSS, JS , PostgreSQL)  
 
 ## 📫 Connect with Me  
 - GitHub: [Anonymousboii301](https://github.com/Anonymousboii301)  
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ayush-kumar-b89460320/)  
-- Email: [My Email](kumarayush0883professional@gmail.com)  
+- LinkedIn: [Ayush Kumar Singh](https://www.linkedin.com/in/ayush-kumar-b89460320/)  
+- Email: [Kumarayush0883professional@gmail.com](kumarayush0883professional@gmail.com)  
+- X : [Anonymoussboi30](https://x.com/Anonymoussboi30)
 
+  
 ✨ _Let's build something amazing together!_  
 
